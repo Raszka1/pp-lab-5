@@ -17,10 +17,10 @@ public class Main {
     try {
 
       people[0] = new Person("IronMan", 30);
-      people[0] = new Person("BlackWidow", 21);
-      people[0] = new Person("Hulk", 55);
-      people[0] = new Person("CapitanAmeryka", 48);
-      people[0] = new Person("Jarvis", 62);
+      people[1] = new Person("BlackWidow", 21);
+      people[2] = new Person("Hulk", 55);
+      people[3] = new Person("CapitanAmeryka", 48);
+      people[4] = new Person("Jarvis", 62);
 
       Person person1 = new Person("Andrzej - zad1", 89);
 
